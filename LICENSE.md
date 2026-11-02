@@ -1,13 +1,11 @@
-# Licences / Licencje
+# Licences
 
 - Workflow files (`workflows/`), `scripts/` and `materials/`: **MIT License**, (c) 2026 Matthew Flake – see `LICENSE`.
 - Exercise images (`inputs/`): **CC0 1.0** (public domain dedication) – use them for anything, including commercial work. See `inputs/LICENSE.md`.
 - Sample results (`samples/`): **CC BY-NC 4.0** – learning and non-commercial use only; see `samples/LICENSE.md`.
 - AI models are **not** included. Each model has its own licence – see `MODELS.md`.
 
-Pliki workflow, skrypty i materiały: licencja MIT. Obrazy w `inputs/`: CC0 1.0 (wolno wszystko, także komercyjnie). Próbki w `samples/`: CC BY-NC 4.0. Modele AI nie są częścią paczki – obowiązują ich własne licencje (`MODELS.md`).
-
-## Summary / W skrócie
+## Summary
 
 | What | Licence | Commercial use? |
 |---|---|---|

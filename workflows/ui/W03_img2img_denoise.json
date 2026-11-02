@@ -996,7 +996,7 @@
   "info": {
    "name": "W03 Img2img: three denoise levels side by side",
    "author": "Matthew Flake",
-   "description": "Node by Node / Węzeł po węźle (ed. 10.26) - W03: img2img denoise scale",
+   "description": "Node by Node (ed. 10.26) - W03: img2img denoise scale",
    "license": "MIT (workflow file). Models have their own licences - see MODELS.md."
   }
  },

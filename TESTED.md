@@ -1,12 +1,11 @@
-# Test report / Raport z testów – 27 Oct 2026
+# Test report – 27 Oct 2026
 
-**Machine / Komputer:** Windows, NVIDIA GeForce RTX 5060 8 GB VRAM, 32 GB RAM
+**Machine:** Windows, NVIDIA GeForce RTX 5060 8 GB VRAM, 32 GB RAM
 **ComfyUI:** 0.39.0 (Python 3.12.10), frontend 1.53.10
-**Models / Modele:** see MODELS.md (files kept in a `SDXL\` subfolder – picked from the loader list)
+**Models:** see MODELS.md (files kept in a `SDXL\` subfolder – picked from the loader list)
 
 Every workflow was loaded from `workflows/ui` into the ComfyUI window and run with **Run** (UI format test),
 and earlier sent through the `/prompt` endpoint from `workflows/api` (API format test).
-Każdy workflow wczytano z `workflows/ui` do okna ComfyUI i uruchomiono przyciskiem Run, a wcześniej wysłano przez `/prompt` z `workflows/api`.
 
 | Workflow | UI run | API run | Time (model in memory) | Output |
 |---|---|---|---|---|
@@ -23,7 +22,7 @@ Każdy workflow wczytano z `workflows/ui` do okna ComfyUI i uruchomiono przycisk
 | W11_series | OK | OK | 16 s | 832×1216 |
 | scripts/series.py + topics.csv (6 topics × 1) | – | OK | 88 s total | 6 × 832×1216 |
 
-Notes / Uwagi:
+Notes:
 - W03: SDXL keeps the colours and light of the input photo even at denoise 0.75 – the strip shows it on purpose (chapter 6).
 - W04: with denoise 0.8 the new lid came out copper (pulled by the wood colour) – the final file uses denoise 1.0 + `(matte black:1.2)`.
 - series.py was first run against a local mock server (payload check), then the identical payloads were sent to ComfyUI.

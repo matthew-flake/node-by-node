@@ -766,7 +766,7 @@
   "info": {
    "name": "W04 Inpainting with a regular model: new lid",
    "author": "Matthew Flake",
-   "description": "Node by Node / Węzeł po węźle (ed. 10.26) - W04: inpainting with a mask",
+   "description": "Node by Node (ed. 10.26) - W04: inpainting with a mask",
    "license": "MIT (workflow file). Models have their own licences - see MODELS.md."
   }
  },

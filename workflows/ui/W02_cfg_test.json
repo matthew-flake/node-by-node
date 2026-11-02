@@ -868,7 +868,7 @@
   "info": {
    "name": "W02 CFG test: 4 / 7 / 10 in one run",
    "author": "Matthew Flake",
-   "description": "Node by Node / Węzeł po węźle (ed. 10.26) - W02: CFG test",
+   "description": "Node by Node (ed. 10.26) - W02: CFG test",
    "license": "MIT (workflow file). Models have their own licences - see MODELS.md."
   }
  },

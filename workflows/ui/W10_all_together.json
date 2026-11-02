@@ -1094,7 +1094,7 @@
   "info": {
    "name": "W10 All together: LoRA + ControlNet + hi-res + upscale",
    "author": "Matthew Flake",
-   "description": "Node by Node / Węzeł po węźle (ed. 10.26) - W10: complete workflow",
+   "description": "Node by Node (ed. 10.26) - W10: complete workflow",
    "license": "MIT (workflow file). Models have their own licences - see MODELS.md."
   }
  },

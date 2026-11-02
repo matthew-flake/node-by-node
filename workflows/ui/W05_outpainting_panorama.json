@@ -570,7 +570,7 @@
   "info": {
    "name": "W05 Outpainting: from 16:9 to a panorama",
    "author": "Matthew Flake",
-   "description": "Node by Node / Węzeł po węźle (ed. 10.26) - W05: outpainting",
+   "description": "Node by Node (ed. 10.26) - W05: outpainting",
    "license": "MIT (workflow file). Models have their own licences - see MODELS.md."
   }
  },

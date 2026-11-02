@@ -432,7 +432,7 @@
   "info": {
    "name": "W11 Series: one workflow, many topics (for series.py)",
    "author": "Matthew Flake",
-   "description": "Node by Node / Węzeł po węźle (ed. 10.26) - W11: batch series",
+   "description": "Node by Node (ed. 10.26) - W11: batch series",
    "license": "MIT (workflow file). Models have their own licences - see MODELS.md."
   }
  },

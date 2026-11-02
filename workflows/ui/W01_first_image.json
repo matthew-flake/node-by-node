@@ -432,7 +432,7 @@
   "info": {
    "name": "W01 First image (text to image)",
    "author": "Matthew Flake",
-   "description": "Node by Node / Węzeł po węźle (ed. 10.26) - W01: first image",
+   "description": "Node by Node (ed. 10.26) - W01: first image",
    "license": "MIT (workflow file). Models have their own licences - see MODELS.md."
   }
  },

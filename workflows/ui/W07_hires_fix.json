@@ -671,7 +671,7 @@
   "info": {
    "name": "W07 Hi-res fix: second pass in latent space",
    "author": "Matthew Flake",
-   "description": "Node by Node / Węzeł po węźle (ed. 10.26) - W07: hi-res fix",
+   "description": "Node by Node (ed. 10.26) - W07: hi-res fix",
    "license": "MIT (workflow file). Models have their own licences - see MODELS.md."
   }
  },

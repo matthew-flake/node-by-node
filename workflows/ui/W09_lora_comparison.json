@@ -821,7 +821,7 @@
   "info": {
    "name": "W09 LoRA: without and with LoRA side by side",
    "author": "Matthew Flake",
-   "description": "Node by Node / Węzeł po węźle (ed. 10.26) - W09: LoRA without/with",
+   "description": "Node by Node (ed. 10.26) - W09: LoRA without/with",
    "license": "MIT (workflow file). Models have their own licences - see MODELS.md."
   }
  },

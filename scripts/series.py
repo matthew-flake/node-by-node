@@ -1,4 +1,4 @@
-"""Series runner for "Węzeł po węźle" / "Node by Node" (chapter 15).
+"""Series runner for the book "Node by Node" (chapter 15).
 
 Sends one ComfyUI workflow (API format) many times, once per row of a CSV file,
 with a new random seed for every image.

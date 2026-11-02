@@ -275,7 +275,7 @@
   "info": {
    "name": "W06 Model upscale: clean 2x for print",
    "author": "Matthew Flake",
-   "description": "Node by Node / Węzeł po węźle (ed. 10.26) - W06: 2x upscale",
+   "description": "Node by Node (ed. 10.26) - W06: 2x upscale",
    "license": "MIT (workflow file). Models have their own licences - see MODELS.md."
   }
  },

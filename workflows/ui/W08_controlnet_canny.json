@@ -707,7 +707,7 @@
   "info": {
    "name": "W08 ControlNet Canny: same shape, new material",
    "author": "Matthew Flake",
-   "description": "Node by Node / Węzeł po węźle (ed. 10.26) - W08: ControlNet Canny",
+   "description": "Node by Node (ed. 10.26) - W08: ControlNet Canny",
    "license": "MIT (workflow file). Models have their own licences - see MODELS.md."
   }
  },

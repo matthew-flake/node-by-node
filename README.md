@@ -1,29 +1,27 @@
-# Węzeł po węźle / Node by Node – companion pack (edition 10.26)
+# Node by Node – companion pack (edition 10.26)
 
-**PL.** Bezpłatne materiały do książki *Węzeł po węźle. ComfyUI od pierwszego obrazu do własnego workflow* (Matthew Flake, wydanie 10.26, październik 2026). Bez konta, bez e-maila.
+Free companion files for the book *Node by Node. ComfyUI from Your First Image to Your Own Workflow* (Matthew Flake, edition 10.26, October 2026). No account, no e-mail.
 
-**EN.** Free companion files for the book *Node by Node* (Polish edition: *Węzeł po węźle*), edition 10.26. No account, no e-mail.
+![Results](docs/results.jpg)
 
-![Results / Wyniki](docs/results.jpg)
+## Start in 3 steps
+1. Download the models listed in `MODELS.md` into `ComfyUI/models/...`.
+2. Copy `inputs/*.png` to `ComfyUI/input`.
+3. Drag a file from `workflows/ui` onto the ComfyUI window and click **Run**.
 
-## Start in 3 steps / Start w 3 krokach
-1. Download the models listed in `MODELS.md` into `ComfyUI/models/...` / Pobierz modele z `MODELS.md`.
-2. Copy `inputs/*.png` to `ComfyUI/input` / Skopiuj obrazy z `inputs` do `ComfyUI/input`.
-3. Drag a file from `workflows/ui` onto the ComfyUI window and click **Run** / Przeciągnij plik z `workflows/ui` na okno ComfyUI i kliknij **Run**.
-
-## Contents / Zawartość
-| Folder | What / Co |
+## Contents
+| Folder | What |
 |---|---|
-| `workflows/ui` | 11 workflows – drag & drop (built-in nodes only) / 11 workflowów do przeciągnięcia (tylko węzły wbudowane) |
-| `workflows/api` | the same in API format for scripts / to samo w formacie API |
-| `inputs` | exercise images / obrazy do ćwiczeń |
-| `scripts` | `series.py` + `topics.csv` – batch series (chapter 15) / seria jednym poleceniem |
-| `materials` | checklists, notes template, licence register, brief and offer templates (`*_en.md` English, `*_pl.md` Polish) / checklisty i szablony |
-| `docs/graphs` | screenshots of every graph / zrzuty każdego grafu |
-| `samples` | test results as PNG with embedded workflow / wyniki testów z workflow w metadanych |
-| `TESTED.md` | test report (RTX 5060 8 GB) / raport z testów |
+| `workflows/ui` | 11 workflows – drag & drop (built-in nodes only) |
+| `workflows/api` | the same in API format for scripts |
+| `inputs` | exercise images |
+| `scripts` | `series.py` + `topics.csv` – batch series (chapter 15) |
+| `materials` | checklists, notes template, licence register, brief and offer templates |
+| `docs/graphs` | screenshots of every graph |
+| `samples` | test results as PNG with embedded workflow |
+| `TESTED.md` | test report (RTX 5060 8 GB) |
 
-| # | File | Chapter / Rozdział |
+| # | File | Chapter |
 |---|---|---|
 | W01 | [first_image](workflows/ui/W01_first_image.json) · [graph](docs/graphs/W01_graph.jpg) | 3 |
 | W02 | [cfg_test](workflows/ui/W02_cfg_test.json) · [graph](docs/graphs/W02_graph.jpg) | 5 |

@@ -1,4 +1,4 @@
-"""Example workflows for the book "Węzeł po węźle" / "Node by Node" (edition 10.26).
+"""Example workflows for the book "Node by Node" (edition 10.26).
 Run:  python node_by_node.py OUTPUT_DIR      (writes ui/ and api/)
 Author: Matthew Flake. Workflow files: MIT licence.
 All on-canvas text (node titles, groups, notes, save prefixes) is in English on purpose:
@@ -24,7 +24,7 @@ LIC = ("LICENCES (as of 26 Oct 2026 - check before selling):\n"
        "- SDXL base 1.0: CreativeML Open RAIL++-M - commercial use allowed, with a list of prohibited uses.\n"
        "Not legal advice.")
 LIC_UP = "- 4x NMKD-Siax 200k: WTFPL (OpenModelDB). Alternative: Real-ESRGAN x4plus (BSD-3)."
-INFO = lambda code, desc: {"description": f"Node by Node / Węzeł po węźle (ed. 10.26) - {code}: {desc}",
+INFO = lambda code, desc: {"description": f"Node by Node (ed. 10.26) - {code}: {desc}",
                            "license": "MIT (workflow file). Models have their own licences - see MODELS.md."}
 
 
